@@ -1,0 +1,10 @@
+
+========prazskanemocnice========
+Public: public ip here
+Private: 192.168.12.4
+Date: 04:57 - 7.7.1945
+
+========pavlovska========
+Public: public ip here
+Private: 192.168.7.7
+Date: 18:01 - 7.7.2018
